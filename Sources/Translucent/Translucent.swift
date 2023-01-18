@@ -93,7 +93,7 @@ public class Wallpaper: NSObject {
             crop_w = phone.medium
             crop_h = phone.small
             crop_x = phone.left
-            crop_y = phone.medium
+            crop_y = phone.middle
             
         case .mediumBottom:
             crop_w = phone.medium
